@@ -1,0 +1,5 @@
+name="Repo Vikings"
+url="https://raw.githubusercontent.com/kodishmediacenter/channel/master/vikings/repo.vikings-1.00.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/channel/master/vikings/icon.png"
+fanart="https://raw.githubusercontent.com/kodishmediacenter/channel/master/vikings/fanart.jpg"
+description="Não necessidade de fresh start"
