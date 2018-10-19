@@ -3,3 +3,9 @@ url="https://raw.githubusercontent.com/kodishmediacenter/channel/master/vikings/
 img="https://raw.githubusercontent.com/kodishmediacenter/channel/master/vikings/icon.png"
 fanart="https://raw.githubusercontent.com/kodishmediacenter/channel/master/vikings/fanart.jpg"
 description="Não necessidade de fresh start"
+
+name="Brazuca Plays"
+url="https://raw.githubusercontent.com/kodishmediacenter/channel/master/Brazuca/plugin.video.BrazucaPlay.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/channel/master/Brazuca/icon.png"
+fanart="https://raw.githubusercontent.com/kodishmediacenter/channel/master/Brazuca/fanart.jpg"
+description="Não necessidade de fresh start"
